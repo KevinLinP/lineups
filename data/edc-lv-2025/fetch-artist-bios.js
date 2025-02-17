@@ -9,6 +9,15 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 let artists = JSON.parse(fs.readFileSync('./data/edc-lv-2025/artists.json', 'utf8'));
 
 for (const artist of artists) {
+  const snakeCaseArtistName = artist.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  const outputPath = `./data/edc-lv-2025/artist-bios/${snakeCaseArtistName}.json`;
+
+  // Skip if file already exists
+  if (fs.existsSync(outputPath)) {
+    console.log(`Bio already exists for ${artist.name}, skipping...`);
+    continue;
+  }
+
   const response = await fetch(
     "https://lasvegas.electricdaisycarnival.com/wp-admin/admin-ajax.php", 
     {
@@ -32,11 +41,9 @@ for (const artist of artists) {
   });
   const data = await response.json();
   
-  const snakeCaseArtistName = artist.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
-
   // does overwrite existing file
   fs.writeFileSync(
-    `./data/edc-lv-2025/artist-bios/${snakeCaseArtistName}.json`,
+    outputPath,
     JSON.stringify(data, null, 2)
   );
   

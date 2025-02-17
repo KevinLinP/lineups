@@ -412,16 +412,24 @@
     "id": "431966"
   },
   {
-    "name": "Fury&Dknow (MC Dino)",
-    "id": "1499-1564"
+    "name": "Fury",
+    "id": "1499"
+  },
+  {
+    "name": "MC Dino",
+    "id": "1564"
   },
   {
     "name": "Gesaffelstein",
     "id": "1415"
   },
   {
-    "name": "VNSSA&Nala",
-    "id": "91521-196505"
+    "name": "VNSSA",
+    "id": "91521"
+  },
+  {
+    "name": "Nala",
+    "id": "196505"
   },
   {
     "name": "Gorgon City",
@@ -872,8 +880,12 @@
     "id": "136976"
   },
   {
-    "name": "Space 92&Popof",
-    "id": "356827-1033"
+    "name": "Space 92",
+    "id": "356827"
+  },
+  {
+    "name": "Popof",
+    "id": "1033"
   },
   {
     "name": "Steller",
@@ -896,8 +908,12 @@
     "id": "212383"
   },
   {
-    "name": "Tchami&Malaa",
-    "id": "1450-2356"
+    "name": "Tchami",
+    "id": "1450"
+  },
+  {
+    "name": "Malaa",
+    "id": "2356"
   },
   {
     "name": "TDJ",
