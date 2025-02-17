@@ -25,7 +25,7 @@
     <div class="flex gap-2 items-baseline">
       <p class="text-2xl font-light flex-grow-1">{artist.name}</p>
 
-      <div class="flex gap-2 text-gray-500">
+      <div class="flex flex-wrap gap-2 text-gray-500">
         {#each artist.urls as url}
           <a href={url.url} target="_blank">{url.type}</a>
         {/each}
