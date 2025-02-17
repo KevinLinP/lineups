@@ -1,9 +1,14 @@
 import fs from 'fs';
 import _ from 'lodash';
-const artistNames = JSON.parse(fs.readFileSync('./data/edc-lv-2025/artists.json', 'utf8'));
+
+const artistsJson = JSON.parse(fs.readFileSync('./data/edc-lv-2025/artists.json', 'utf8'));
+
+const artistNames = _.uniq(artistsJson.map((artist) => {
+  return artist.name;
+})).sort();
 
 const artists = artistNames.map((artistName) => {
-  const fileName = artistName.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  const fileName = artistName.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
   const bio = JSON.parse(fs.readFileSync(`./data/edc-lv-2025/artist-bios/${fileName}.json`, 'utf8')).data[0];
   const genres = JSON.parse(fs.readFileSync(`./data/edc-lv-2025/artist-genres/${fileName}.json`, 'utf8'));
 
