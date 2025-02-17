@@ -14,6 +14,10 @@
   });
 </script>
 
+<svelte:head>
+  <title>{title} - Lineup</title>
+</svelte:head>
+
 <h1 class="text-4xl font-light mb-4">{title}</h1>
 
 {#each artists as artist}
