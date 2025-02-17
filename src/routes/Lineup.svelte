@@ -23,7 +23,7 @@
 {#each artists as artist}
   <div class="mb-4">
     <div class="flex gap-2 items-baseline">
-      <p class="text-2xl font-light flex-grow-1">{artist.name}</p>
+      <p class="text-2xl font-light grow">{artist.name}</p>
 
       <div class="flex flex-wrap gap-2 text-gray-500">
         {#each artist.urls as url}
