@@ -7,7 +7,7 @@ import { zodResponseFormat } from "openai/helpers/zod";
 import { z } from "zod";
 import _ from 'lodash';
 
-const SLEEP_TIME = 1000;
+const SLEEP_TIME = 1_000;
 
 const openRouter = new OpenAI({
   base_url: "https://openrouter.ai/api/v1",
@@ -55,7 +55,7 @@ async function processArtistBios() {
       const cleanBio = turndown.turndown(decode(post_content));
 
       // Create prompt for OpenAI
-      const prompt = `What genres of electronic music does the artist named ${name} play? Please do use outside knowledge, but I've also included a bio below to help. 
+      const prompt = `What genres of electronic music does the artist named ${name} usually play? Please sort the genres with what the artist is known for first. Please use outside knowledge, but I've also included a bio below to help just in case.
 
 ${cleanBio}`;
 

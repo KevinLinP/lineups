@@ -2,14 +2,15 @@
   "name": "Tiësto",
   "cleanBio": "GRAMMY® Award-winning, platinum-certified, international icon, Tiësto has over 8 BILLION global streams across platforms, 36M+ Total Record Sales, 30M+ Social Audience & over 160M TikTok Video Views across users. The DJ and producer is the only artist to ever hold the titles of “The Greatest DJ of All Time” courtesy of Mixmag, “#1 DJ” according to Rolling Stone, and “The Godfather of EDM,” as proclaimed by Billboard. From his underground dance floor bangers to his high-profile Las Vegas residency and crossover success, Tiësto created the blueprint that defines what it means to be a success in today’s dance music world.",
   "genres": [
-    "EDM (Electronic Dance Music)",
     "Trance",
     "Progressive House",
-    "Big Room House",
     "Electro House",
     "Future House",
     "Deep House",
-    "Bass House",
-    "Tropical House"
+    "Big Room House",
+    "EDM (Electronic Dance Music)",
+    "Tech House",
+    "Future Rave",
+    "Dutch House"
   ]
 }
