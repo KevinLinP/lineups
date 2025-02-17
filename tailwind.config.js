@@ -1,4 +1,9 @@
-module.exports = {
-  darkMode: 'class',
-  // ... rest of your config
-} 
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./src/**/*.{html,js,svelte,ts}'],
+  theme: {
+    extend: {}
+  },
+  plugins: [],
+  darkMode: 'selector',
+};
