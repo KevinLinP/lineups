@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "data": [
+    {
+      "ID": 876,
+      "post_author": "0",
+      "post_date": "2014-05-19 05:12:21",
+      "post_date_gmt": "2014-05-19 12:12:21",
+      "post_content": "<p><p>GRAMMY ® nominated trance legends Cosmic Gate aka Nic Chagall and Bossi have proved to be a matchless musical union. The last 20 years set them on the course to becoming Germany's most enduringly successful electronic music duo. Smashing the biggest festivals and road-blocking clubs worldwide, got them highest climber on DJ Mag's Top 100 chart and racked up plentiful other awards &amp; nominations along the way. Numerous Singles like 'am2pm', 'Fall Into You' and 'Falling Back', countless Remixes and 11 Artist Albums, including scene-defining classics like 'Be Your Sound', 'Fire Wire' and 'Exploration of Space' (20 million Spotify streams), their star on dance music's walk of fame has long since been laid.</p></p>",
+      "post_title": "Cosmic Gate",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "cosmic-gate",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2021-10-01 20:03:05",
+      "post_modified_gmt": "2021-10-01 20:03:05",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "guid": "http://staging-hello.insomniac.com/music/artists/cosmic-gate/",
+      "menu_order": 0,
+      "post_type": "artist",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "name": "Cosmic Gate",
+      "hero_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/01200308/88a364da-22f2-11ec-b991-0ee6b8365494-972x597.jpg",
+      "small_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/01200308/88a364da-22f2-11ec-b991-0ee6b8365494-150x150.jpg",
+      "social_links": [
+        {
+          "service": "facebook",
+          "url": "https://www.facebook.com/cosmicgate"
+        },
+        {
+          "service": "soundcloud",
+          "url": "https://soundcloud.com/cosmicgateofficial"
+        },
+        {
+          "service": "instagram",
+          "url": "https://www.instagram.com/realcosmicgate/"
+        },
+        {
+          "service": "twitter",
+          "url": "http://www.twitter.com/cosmicgate"
+        },
+        {
+          "service": "website",
+          "url": "http://www.cosmic-gate.de/"
+        }
+      ],
+      "bio": "%3Cp%3E%3Cp%3EGRAMMY%20%C2%AE%20nominated%20trance%20legends%20Cosmic%20Gate%20aka%20Nic%20Chagall%20and%20Bossi%20have%20proved%20to%20be%20a%20matchless%20musical%20union.%20The%20last%2020%20years%20set%20them%20on%20the%20course%20to%20becoming%20Germany%27s%20most%20enduringly%20successful%20electronic%20music%20duo.%20Smashing%20the%20biggest%20festivals%20and%20road-blocking%20clubs%20worldwide%2C%20got%20them%20highest%20climber%20on%20DJ%20Mag%27s%20Top%20100%20chart%20and%20racked%20up%20plentiful%20other%20awards%20%26amp%3B%20nominations%20along%20the%20way.%20Numerous%20Singles%20like%20%27am2pm%27%2C%20%27Fall%20Into%20You%27%20and%20%27Falling%20Back%27%2C%20countless%20Remixes%20and%2011%20Artist%20Albums%2C%20including%20scene-defining%20classics%20like%20%27Be%20Your%20Sound%27%2C%20%27Fire%20Wire%27%20and%20%27Exploration%20of%20Space%27%20%2820%20million%20Spotify%20streams%29%2C%20their%20star%20on%20dance%20music%27s%20walk%20of%20fame%20has%20long%20since%20been%20laid.%3C%2Fp%3E%3C%2Fp%3E"
+    }
+  ]
+}

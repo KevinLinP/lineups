@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "data": [
+    {
+      "ID": 2042,
+      "post_author": "0",
+      "post_date": "2015-06-02 12:33:28",
+      "post_date_gmt": "2015-06-02 19:33:28",
+      "post_content": "<p><p>Globally renowned and adored for her cinematic soundscapes and ethereal performances, South African-born, Swiss-based Queen of Deep House, Nora En Pure has spent the last few years working relentlessly to reach the pinnacle of the dance music scene. Proving her eminence with every performance, playing stand out shows at the likes of Coachella, Burning Man, Tomorrowland, EDC, Daniela Di Lillo is a true force with an indomitable work ethic and an eye for immaculate detail.</p></p>",
+      "post_title": "Nora En Pure",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "nora-en-pure",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2023-04-21 22:37:10",
+      "post_modified_gmt": "2023-04-21 22:37:10",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "guid": "http://staging-hello.insomniac.com/music/artists/nora-en-pure/",
+      "menu_order": 0,
+      "post_type": "artist",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "name": "Nora En Pure",
+      "hero_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/06/21223713/0665abf6-e095-11ed-954e-0ecc81f4ee58-972x597.jpg",
+      "small_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/06/21223713/0665abf6-e095-11ed-954e-0ecc81f4ee58-150x150.jpg",
+      "social_links": [
+        {
+          "service": "facebook",
+          "url": "https://www.facebook.com/NoraEnPure"
+        },
+        {
+          "service": "soundcloud",
+          "url": "https://soundcloud.com/noraenpure"
+        },
+        {
+          "service": "instagram",
+          "url": "https://instagram.com/noraenpure"
+        },
+        {
+          "service": "spotify",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        },
+        {
+          "service": "twitter",
+          "url": "https://twitter.com/noraenpure"
+        },
+        {
+          "service": "website",
+          "url": "https://www.noraenpure.com/"
+        }
+      ],
+      "bio": "%3Cp%3E%3Cp%3EGlobally%20renowned%20and%20adored%20for%20her%20cinematic%20soundscapes%20and%20ethereal%20performances%2C%20South%20African-born%2C%20Swiss-based%20Queen%20of%20Deep%20House%2C%20Nora%20En%20Pure%20has%20spent%20the%20last%20few%20years%20working%20relentlessly%20to%20reach%20the%20pinnacle%20of%20the%20dance%20music%20scene.%20Proving%20her%20eminence%20with%20every%20performance%2C%20playing%20stand%20out%20shows%20at%20the%20likes%20of%20Coachella%2C%20Burning%20Man%2C%20Tomorrowland%2C%20EDC%2C%20Daniela%20Di%20Lillo%20is%20a%20true%20force%20with%20an%20indomitable%20work%20ethic%20and%20an%20eye%20for%20immaculate%20detail.%3C%2Fp%3E%3C%2Fp%3E"
+    }
+  ]
+}

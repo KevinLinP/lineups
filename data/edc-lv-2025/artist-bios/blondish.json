@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "data": [
+    {
+      "ID": 1014,
+      "post_author": "0",
+      "post_date": "2014-05-19 05:17:13",
+      "post_date_gmt": "2014-05-19 12:17:13",
+      "post_content": "<p><p>BLOND:ISH is a DJ, producer, record label head, environmental activist, Web3 entrepreneur, serial collaborator, energy worker and spiritual seeker (and just about everything in-between). Her eclectic talents and abilities as a musician allow her to bridge gaps unlike any other artist in the world. As a DJ, whether she's operating in afro house, 80s disco, psychedelic or straight techno mode, her expert selections are always fun, positive &amp; beautifully rhythmic. As an entrepreneur, she helms a Web3 investment fund and is on the cutting edge of the space. As a philanthropist, she has spearheaded the launch of Bye Bye Plastic, a charity dedicated to eliminating plastic waste at festivals and venues. As a human, BLOND:ISH is dedicated to loving all and creating inclusive atmospheres that take people to Happy Happy World.</p></p>",
+      "post_title": "BLOND:ISH",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "blondish",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2025-02-07 02:11:41",
+      "post_modified_gmt": "2025-02-07 02:11:41",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "guid": "http://staging-hello.insomniac.com/music/artists/blondish/",
+      "menu_order": 0,
+      "post_type": "artist",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "name": "BLOND:ISH",
+      "hero_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/07021144/c57472f2-e4f8-11ef-b991-0ee6b8365494-972x597.jpg",
+      "small_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/07021144/c57472f2-e4f8-11ef-b991-0ee6b8365494-150x150.jpg",
+      "social_links": [
+        {
+          "service": "facebook",
+          "url": "https://www.facebook.com/Blondish"
+        },
+        {
+          "service": "soundcloud",
+          "url": "https://soundcloud.com/blondish"
+        },
+        {
+          "service": "instagram",
+          "url": "https://www.instagram.com/blondish/"
+        },
+        {
+          "service": "spotify",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "service": "twitter",
+          "url": "https://twitter.com/blond_ish"
+        },
+        {
+          "service": "website",
+          "url": "http://www.blond-ish.com/"
+        }
+      ],
+      "bio": "%3Cp%3E%3Cp%3EBLOND%3AISH%20is%20a%20DJ%2C%20producer%2C%20record%20label%20head%2C%20environmental%20activist%2C%20Web3%20entrepreneur%2C%20serial%20collaborator%2C%20energy%20worker%20and%20spiritual%20seeker%20%28and%20just%20about%20everything%20in-between%29.%20Her%20eclectic%20talents%20and%20abilities%20as%20a%20musician%20allow%20her%20to%20bridge%20gaps%20unlike%20any%20other%20artist%20in%20the%20world.%20As%20a%20DJ%2C%20whether%20she%27s%20operating%20in%20afro%20house%2C%2080s%20disco%2C%20psychedelic%20or%20straight%20techno%20mode%2C%20her%20expert%20selections%20are%20always%20fun%2C%20positive%20%26amp%3B%20beautifully%20rhythmic.%20As%20an%20entrepreneur%2C%20she%20helms%20a%20Web3%20investment%20fund%20and%20is%20on%20the%20cutting%20edge%20of%20the%20space.%20As%20a%20philanthropist%2C%20she%20has%20spearheaded%20the%20launch%20of%20Bye%20Bye%20Plastic%2C%20a%20charity%20dedicated%20to%20eliminating%20plastic%20waste%20at%20festivals%20and%20venues.%20As%20a%20human%2C%20BLOND%3AISH%20is%20dedicated%20to%20loving%20all%20and%20creating%20inclusive%20atmospheres%20that%20take%20people%20to%20Happy%20Happy%20World.%3C%2Fp%3E%3C%2Fp%3E"
+    }
+  ]
+}

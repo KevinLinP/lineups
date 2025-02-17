@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": [
+    {
+      "ID": 443195,
+      "post_author": "0",
+      "post_date": "2025-02-14 20:06:58",
+      "post_date_gmt": "0000-00-00 00:00:00",
+      "post_content": "",
+      "post_title": "TWENTY SIX",
+      "post_excerpt": "",
+      "post_status": "draft",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2025-02-14 20:06:58",
+      "post_modified_gmt": "2025-02-14 20:06:58",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "guid": "https://www.insomniac.com/?post_type=artist&#038;p=443195",
+      "menu_order": 0,
+      "post_type": "artist",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "name": "TWENTY SIX",
+      "hero_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2025/02/14200701/erwUQrdWylOSV0wQDrCB7VJi7Wi6oD0pCggBYjdU-972x597.jpg",
+      "small_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2025/02/14200701/erwUQrdWylOSV0wQDrCB7VJi7Wi6oD0pCggBYjdU-150x150.jpg",
+      "social_links": [
+        {
+          "service": "instagram",
+          "url": "https://www.instagram.com/twentysixofficialmusic/?hl=en"
+        }
+      ],
+      "bio": ""
+    }
+  ]
+}

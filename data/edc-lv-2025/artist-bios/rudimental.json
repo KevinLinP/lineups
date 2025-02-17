@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "data": [
+    {
+      "ID": 1420,
+      "post_author": "0",
+      "post_date": "2014-05-19 05:30:13",
+      "post_date_gmt": "2014-05-19 12:30:13",
+      "post_content": "<p><div>Piers Aggett, Kesi Dryden and Leon “Locksmith” Rolle are better collectively known as Rudimental the genre-bending electronic three-piece from East London.</div><div><br></div><div>As one of the UK’s most successful dance acts of the last decade Rudimental have set the bar high. Multiple chart topping singles, 5 billion streams, x4 albums, world tours plus a plethora of awards that have cemented their position as trailblazers with a formidable reputation for producing hit records.</div></p>",
+      "post_title": "Rudimental",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "rudimental",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2024-11-26 20:15:45",
+      "post_modified_gmt": "2024-11-26 20:15:45",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "guid": "http://staging-hello.insomniac.com/music/artists/rudimental/",
+      "menu_order": 0,
+      "post_type": "artist",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "name": "Rudimental",
+      "hero_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/26201546/11748c04-ac33-11ef-b991-0ee6b8365494.jpg",
+      "small_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/26201546/11748c04-ac33-11ef-b991-0ee6b8365494-150x150.jpg",
+      "social_links": [
+        {
+          "service": "facebook",
+          "url": "https://www.facebook.com/Rudimental"
+        },
+        {
+          "service": "soundcloud",
+          "url": "https://soundcloud.com/rudimentaluk"
+        },
+        {
+          "service": "instagram",
+          "url": "https://www.instagram.com/rudimentaluk/"
+        },
+        {
+          "service": "spotify",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "service": "twitter",
+          "url": "https://twitter.com/Rudimental"
+        },
+        {
+          "service": "website",
+          "url": "http://www.rudimental.co.uk/"
+        }
+      ],
+      "bio": "%3Cp%3E%3Cdiv%3EPiers%20Aggett%2C%20Kesi%20Dryden%20and%20Leon%20%E2%80%9CLocksmith%E2%80%9D%20Rolle%20are%20better%20collectively%20known%20as%20Rudimental%20the%20genre-bending%20electronic%20three-piece%20from%20East%20London.%3C%2Fdiv%3E%3Cdiv%3E%3Cbr%3E%3C%2Fdiv%3E%3Cdiv%3EAs%20one%20of%20the%20UK%E2%80%99s%20most%20successful%20dance%20acts%20of%20the%20last%20decade%20Rudimental%20have%20set%20the%20bar%20high.%20Multiple%20chart%20topping%20singles%2C%205%20billion%20streams%2C%20x4%20albums%2C%20world%20tours%20plus%20a%20plethora%20of%20awards%20that%20have%20cemented%20their%20position%20as%20trailblazers%20with%20a%20formidable%20reputation%20for%20producing%20hit%20records.%3C%2Fdiv%3E%3C%2Fp%3E"
+    }
+  ]
+}

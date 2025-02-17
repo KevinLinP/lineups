@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "data": [
+    {
+      "ID": 386463,
+      "post_author": "0",
+      "post_date": "2023-10-02 23:29:52",
+      "post_date_gmt": "2023-10-02 23:29:52",
+      "post_content": "<p><p>Neo Acid Queen Clawz is ready to take the stage at Bullseye to bring some hard techno madness to the masses. Mixing hard dance kicks with rawstyle inspired rave slaps saddle up and prepare to ride down the percussion road for a rave rodeo.</p></p>",
+      "post_title": "Clawz",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "clawz",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2024-10-02 22:36:16",
+      "post_modified_gmt": "2024-10-02 22:36:16",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "guid": "https://www.insomniac.com/music/artists/clawz/",
+      "menu_order": 0,
+      "post_type": "artist",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "name": "Clawz",
+      "hero_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2023/10/02223618/3ee6866a-810e-11ef-b991-0ee6b8365494-972x597.jpg",
+      "small_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2023/10/02223618/3ee6866a-810e-11ef-b991-0ee6b8365494-150x150.jpg",
+      "social_links": [
+        {
+          "service": "soundcloud",
+          "url": "https://soundcloud.com/dj-clawz"
+        },
+        {
+          "service": "instagram",
+          "url": "https://www.instagram.com/_clawz_/"
+        },
+        {
+          "service": "twitter",
+          "url": "https://twitter.com/clawz_music"
+        }
+      ],
+      "bio": "%3Cp%3E%3Cp%3ENeo%20Acid%20Queen%20Clawz%20is%20ready%20to%20take%20the%20stage%20at%20Bullseye%20to%20bring%20some%20hard%20techno%20madness%20to%20the%20masses.%20Mixing%20hard%20dance%20kicks%20with%20rawstyle%20inspired%20rave%20slaps%20saddle%20up%20and%20prepare%20to%20ride%20down%20the%20percussion%20road%20for%20a%20rave%20rodeo.%3C%2Fp%3E%3C%2Fp%3E"
+    }
+  ]
+}

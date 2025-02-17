@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "data": [
+    {
+      "ID": 465475,
+      "post_author": "0",
+      "post_date": "2025-02-13 06:21:16",
+      "post_date_gmt": "2025-02-13 06:21:16",
+      "post_content": "",
+      "post_title": "Mike Posner",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "mike-posner",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2025-02-13 06:21:16",
+      "post_modified_gmt": "2025-02-13 06:21:16",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "guid": "https://www.insomniac.com/?post_type=artist&#038;p=465475",
+      "menu_order": 0,
+      "post_type": "artist",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "name": "Mike Posner",
+      "hero_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2025/02/13062118/a78868aa-e9d2-11ef-954e-0ecc81f4ee58-972x597.jpg",
+      "small_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2025/02/13062118/a78868aa-e9d2-11ef-954e-0ecc81f4ee58-150x150.jpg",
+      "social_links": [
+        {
+          "service": "facebook",
+          "url": "https://www.facebook.com/therealmikeposner/"
+        },
+        {
+          "service": "instagram",
+          "url": "https://www.instagram.com/mikeposner/"
+        },
+        {
+          "service": "spotify",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "service": "twitter",
+          "url": "https://x.com/mikeposner"
+        },
+        {
+          "service": "website",
+          "url": "https://mikeposner.net/"
+        }
+      ],
+      "bio": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "data": [
+    {
+      "ID": 273870,
+      "post_author": "0",
+      "post_date": "2022-03-25 00:05:09",
+      "post_date_gmt": "2022-03-25 00:05:28",
+      "post_content": "<p>Fueled by an innate determination, drive and passion, with attuned intuition applied to both his music and life, West African native AMÉMÉ channels his cultural roots and ancestry into everything he does. Born and raised in Benin, AMÉMÉ (Hubert Sodogandji) helms One Tribe, a global community and brand identity centred on unity and a positive outlook. His visionary capabilities and unwavering dedication have been the catalyst behind the rapid growth and proliferation of both his musical endeavours and One Tribe as a whole.</p>",
+      "post_title": "AMÉMÉ",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "ameme",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2024-06-21 19:27:13",
+      "post_modified_gmt": "2024-06-21 19:27:13",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "guid": "https://www.insomniac.com/?post_type=artist&#038;p=273870",
+      "menu_order": 0,
+      "post_type": "artist",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "name": "AMÉMÉ",
+      "hero_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/21192715/3c662748-3004-11ef-b991-0ee6b8365494-972x597.jpg",
+      "small_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/21192715/3c662748-3004-11ef-b991-0ee6b8365494-150x150.jpg",
+      "social_links": [
+        {
+          "service": "facebook",
+          "url": "https://www.facebook.com/djameme/"
+        },
+        {
+          "service": "soundcloud",
+          "url": "https://soundcloud.com/amemedj"
+        },
+        {
+          "service": "instagram",
+          "url": "https://www.instagram.com/amemedj/"
+        }
+      ],
+      "bio": "%3Cp%3EFueled%20by%20an%20innate%20determination%2C%20drive%20and%20passion%2C%20with%20attuned%20intuition%20applied%20to%20both%20his%20music%20and%20life%2C%20West%20African%20native%20AM%C3%89M%C3%89%20channels%20his%20cultural%20roots%20and%20ancestry%20into%20everything%20he%20does.%20Born%20and%20raised%20in%20Benin%2C%20AM%C3%89M%C3%89%20%28Hubert%20Sodogandji%29%20helms%20One%20Tribe%2C%20a%20global%20community%20and%20brand%20identity%20centred%20on%20unity%20and%20a%20positive%20outlook.%20His%20visionary%20capabilities%20and%20unwavering%20dedication%20have%20been%20the%20catalyst%20behind%20the%20rapid%20growth%20and%20proliferation%20of%20both%20his%20musical%20endeavours%20and%20One%20Tribe%20as%20a%20whole.%3C%2Fp%3E"
+    }
+  ]
+}

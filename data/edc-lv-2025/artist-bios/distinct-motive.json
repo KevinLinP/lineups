@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "data": [
+    {
+      "ID": 379339,
+      "post_author": "0",
+      "post_date": "2023-08-08 22:02:45",
+      "post_date_gmt": "2023-08-08 22:07:41",
+      "post_content": "<p><p>Distinct Motive is a Canadian producer/DJ creating explorative, visceral bass music for the masses. He quickly made a name for himself with his dark and minimal production style. Paying homage to the early aesthetic of dubstep while building a sound unique unto himself, he has put his respective hometown of Toronto on the map in international bass music circles, advocating for the original, dub-influenced side of dubstep to elated audiences across North America and Europe.</p></p>",
+      "post_title": "Distinct Motive",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "distinct-motive",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2024-06-11 18:57:42",
+      "post_modified_gmt": "2024-06-11 18:57:42",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "guid": "https://www.insomniac.com/?post_type=artist&#038;p=379339",
+      "menu_order": 0,
+      "post_type": "artist",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "name": "Distinct Motive",
+      "hero_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2023/08/11185744/yaHQpU6pb1rLyDZvMcutyuE1ZKACp1jBkLLt8vnX-972x597.jpg",
+      "small_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2023/08/11185744/yaHQpU6pb1rLyDZvMcutyuE1ZKACp1jBkLLt8vnX-150x150.jpg",
+      "social_links": [
+        {
+          "service": "facebook",
+          "url": "https://www.facebook.com/DistinctMotive/"
+        },
+        {
+          "service": "soundcloud",
+          "url": "https://soundcloud.com/distinctmotive"
+        },
+        {
+          "service": "instagram",
+          "url": "https://www.instagram.com/distinctmotive/"
+        },
+        {
+          "service": "spotify",
+          "url": "https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM"
+        },
+        {
+          "service": "twitter",
+          "url": "https://twitter.com/DistinctMotive"
+        }
+      ],
+      "bio": "%3Cp%3E%3Cp%3EDistinct%20Motive%20is%20a%20Canadian%20producer%2FDJ%20creating%20explorative%2C%20visceral%20bass%20music%20for%20the%20masses.%20He%20quickly%20made%20a%20name%20for%20himself%20with%20his%20dark%20and%20minimal%20production%20style.%20Paying%20homage%20to%20the%20early%20aesthetic%20of%20dubstep%20while%20building%20a%20sound%20unique%20unto%20himself%2C%20he%20has%20put%20his%20respective%20hometown%20of%20Toronto%20on%20the%20map%20in%20international%20bass%20music%20circles%2C%20advocating%20for%20the%20original%2C%20dub-influenced%20side%20of%20dubstep%20to%20elated%20audiences%20across%20North%20America%20and%20Europe.%3C%2Fp%3E%3C%2Fp%3E"
+    }
+  ]
+}

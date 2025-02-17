@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "data": [
+    {
+      "ID": 564,
+      "post_author": "0",
+      "post_date": "2014-05-19 04:58:05",
+      "post_date_gmt": "2014-05-19 11:58:05",
+      "post_content": "<p><p>Showtek is the globally-celebrated Dutch production duo composed of brothers Wouter Janssen and Sjoerd Janssen. They are dance music pioneers from Eindhoven, The Netherlands and have conquered the international music industry with memorable anthems such as 'Booyah', 'Bad' with David Guetta, 'FTS'.\r\n\r\n</p><p>Today, Showtek is recognised as an undisputed leader within the electronic dance music industry, boasting platinum-selling, chart-topping singles heard around the world. Over the past years Showtek has become more than an act. They’re a movement brought together by the producer duo and their fans. United by a love for music, excitement, artistic freedom and adventures.</p></p>",
+      "post_title": "Showtek",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "showtek",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2024-06-05 19:54:14",
+      "post_modified_gmt": "2024-06-05 19:54:14",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "guid": "http://staging-hello.insomniac.com/music/artists/showtek/",
+      "menu_order": 0,
+      "post_type": "artist",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "name": "Showtek",
+      "hero_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/05195412/58f12714-2375-11ef-954e-0ecc81f4ee58-972x597.jpg",
+      "small_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/05195412/58f12714-2375-11ef-954e-0ecc81f4ee58-150x150.jpg",
+      "social_links": [
+        {
+          "service": "facebook",
+          "url": "https://www.facebook.com/showtek"
+        },
+        {
+          "service": "soundcloud",
+          "url": "https://soundcloud.com/showtek"
+        },
+        {
+          "service": "instagram",
+          "url": "https://www.instagram.com/showtek/"
+        },
+        {
+          "service": "spotify",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "service": "twitter",
+          "url": "https://twitter.com/showtek"
+        },
+        {
+          "service": "website",
+          "url": "https://www.showtek.com/"
+        }
+      ],
+      "bio": "%3Cp%3E%3Cp%3EShowtek%20is%20the%20globally-celebrated%20Dutch%20production%20duo%20composed%20of%20brothers%20Wouter%20Janssen%20and%20Sjoerd%20Janssen.%20They%20are%20dance%20music%20pioneers%20from%20Eindhoven%2C%20The%20Netherlands%20and%20have%20conquered%20the%20international%20music%20industry%20with%20memorable%20anthems%20such%20as%20%27Booyah%27%2C%20%27Bad%27%20with%20David%20Guetta%2C%20%27FTS%27.%0D%0A%0D%0A%3C%2Fp%3E%3Cp%3EToday%2C%20Showtek%20is%20recognised%20as%20an%20undisputed%20leader%20within%20the%20electronic%20dance%20music%20industry%2C%20boasting%20platinum-selling%2C%20chart-topping%20singles%20heard%20around%20the%20world.%20Over%20the%20past%20years%20Showtek%20has%20become%20more%20than%20an%20act.%20They%E2%80%99re%20a%20movement%20brought%20together%20by%20the%20producer%20duo%20and%20their%20fans.%20United%20by%20a%20love%20for%20music%2C%20excitement%2C%20artistic%20freedom%20and%20adventures.%3C%2Fp%3E%3C%2Fp%3E"
+    }
+  ]
+}

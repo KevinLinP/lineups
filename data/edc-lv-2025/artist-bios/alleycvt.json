@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "data": [
+    {
+      "ID": 362412,
+      "post_author": "0",
+      "post_date": "2023-05-10 21:27:59",
+      "post_date_gmt": "2023-05-10 21:28:05",
+      "post_content": "<p><p>ALLEYCVT is a rising electronic music producer/DJ from Northern Virginia. Her seamless blending of sultry pop vocals and heavy bass drops proves that she is a force to be reckoned with. With influences such as Zeds Dead, Subtronics, and Ganja White Night, ALLEYCVT's production and sound design will make sure to deliver a dirty bass face while reeling you back in with a siren-like vocal melody &amp; catchy lyrics.</p></p>",
+      "post_title": "ALLEYCVT",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "alleycvt",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2025-02-07 02:09:33",
+      "post_modified_gmt": "2025-02-07 02:09:33",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "guid": "https://www.insomniac.com/?post_type=artist&#038;p=362412",
+      "menu_order": 0,
+      "post_type": "artist",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "name": "ALLEYCVT",
+      "hero_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2023/05/07020935/75a97a24-e4f8-11ef-b991-0ee6b8365494-972x597.jpg",
+      "small_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2023/05/07020935/75a97a24-e4f8-11ef-b991-0ee6b8365494-150x150.jpg",
+      "social_links": [
+        {
+          "service": "facebook",
+          "url": "https://www.facebook.com/ALLEYCVT"
+        },
+        {
+          "service": "soundcloud",
+          "url": "https://soundcloud.com/alleycvt"
+        },
+        {
+          "service": "instagram",
+          "url": "https://www.instagram.com/alleycvt/"
+        },
+        {
+          "service": "spotify",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        },
+        {
+          "service": "website",
+          "url": "https://alleycvt.com/"
+        }
+      ],
+      "bio": "%3Cp%3E%3Cp%3EALLEYCVT%20is%20a%20rising%20electronic%20music%20producer%2FDJ%20from%20Northern%20Virginia.%20Her%20seamless%20blending%20of%20sultry%20pop%20vocals%20and%20heavy%20bass%20drops%20proves%20that%20she%20is%20a%20force%20to%20be%20reckoned%20with.%20With%20influences%20such%20as%20Zeds%20Dead%2C%20Subtronics%2C%20and%20Ganja%20White%20Night%2C%20ALLEYCVT%27s%20production%20and%20sound%20design%20will%20make%20sure%20to%20deliver%20a%20dirty%20bass%20face%20while%20reeling%20you%20back%20in%20with%20a%20siren-like%20vocal%20melody%20%26amp%3B%20catchy%20lyrics.%3C%2Fp%3E%3C%2Fp%3E"
+    }
+  ]
+}

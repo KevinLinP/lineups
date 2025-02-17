@@ -9,7 +9,9 @@ export const lineups = sqliteTable('lineups', {
 	id: integer('id').primaryKey(),
 	urlSlug: text('url_slug').notNull(),
 	...timestamps,
-});
+}, (t) => [
+	unique().on(t.urlSlug),
+]);
 
 export const artists = sqliteTable('artists', {
 	id: integer('id').primaryKey(),

@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "data": [
+    {
+      "ID": 92095,
+      "post_author": "0",
+      "post_date": "2018-12-19 00:30:40",
+      "post_date_gmt": "2018-12-19 00:32:32",
+      "post_content": "",
+      "post_title": "Of The Trees",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "of-the-trees",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2024-02-13 22:17:54",
+      "post_modified_gmt": "2024-02-13 22:17:54",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "guid": "https://www.insomniac.com/?post_type=artist&#038;p=92095",
+      "menu_order": 0,
+      "post_type": "artist",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "name": "Of The Trees",
+      "hero_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/12/13221757/dvEXPo25SXoIR9SiPZK854kABSVdw1OkbGm5lEsU-972x597.jpeg",
+      "small_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/12/13221757/dvEXPo25SXoIR9SiPZK854kABSVdw1OkbGm5lEsU-150x150.jpeg",
+      "social_links": [
+        {
+          "service": "soundcloud",
+          "url": "https://soundcloud.com/ofthetrees"
+        },
+        {
+          "service": "facebook",
+          "url": "https://www.facebook.com/ofthetrees/"
+        }
+      ],
+      "bio": ""
+    }
+  ]
+}

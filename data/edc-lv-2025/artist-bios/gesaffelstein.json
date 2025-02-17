@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "data": [
+    {
+      "ID": 1415,
+      "post_author": "0",
+      "post_date": "2014-05-19 05:30:13",
+      "post_date_gmt": "2014-05-19 12:30:13",
+      "post_content": "<p><p>Gesaffelstein emerged from the later end of the electronic music scene of the 00s. From his first releases on electronic labels Turbo (Tiga’s label), Zone and Bromance, to his first LP, Aleph, with Warner and most recently, Hyperion via Columbia, Gesaffelstein has continued to build his reputation as one of the most talented and forward-thinking producers of his generation. As the world becomes darker, Gesaffelstein worked with artists like The Weeknd for the EP ‘My dear Melancholy’, A$AP Rocky for the soundtrack of Divergent, Kanye West on Yeezus and Donda or most recently, on KayCyy’s debut EP and Lil Nas X’s “J CHRIST”. On March 29th, Gesaffelstein releases his new LP, GAMMA.</p></p>",
+      "post_title": "Gesaffelstein",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "gesaffelstein",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2025-02-07 02:39:57",
+      "post_modified_gmt": "2025-02-07 02:39:57",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "guid": "http://staging-hello.insomniac.com/music/artists/gesaffelstein/",
+      "menu_order": 0,
+      "post_type": "artist",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "name": "Gesaffelstein",
+      "hero_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/07024000/c675e36c-e4fc-11ef-b991-0ee6b8365494-972x597.jpg",
+      "small_img_url": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/07024000/c675e36c-e4fc-11ef-b991-0ee6b8365494-150x150.jpg",
+      "social_links": [
+        {
+          "service": "facebook",
+          "url": "https://www.facebook.com/gesaffelsteinmusic/"
+        },
+        {
+          "service": "soundcloud",
+          "url": "https://soundcloud.com/gesaffelstein"
+        },
+        {
+          "service": "spotify",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "service": "website",
+          "url": "https://www.gesaffelstein.com/"
+        }
+      ],
+      "bio": "%3Cp%3E%3Cp%3EGesaffelstein%20emerged%20from%20the%20later%20end%20of%20the%20electronic%20music%20scene%20of%20the%2000s.%20From%20his%20first%20releases%20on%20electronic%20labels%20Turbo%20%28Tiga%E2%80%99s%20label%29%2C%20Zone%20and%20Bromance%2C%20to%20his%20first%20LP%2C%20Aleph%2C%20with%20Warner%20and%20most%20recently%2C%20Hyperion%20via%20Columbia%2C%20Gesaffelstein%20has%20continued%20to%20build%20his%20reputation%20as%20one%20of%20the%20most%20talented%20and%20forward-thinking%20producers%20of%20his%20generation.%20As%20the%20world%20becomes%20darker%2C%20Gesaffelstein%20worked%20with%20artists%20like%20The%20Weeknd%20for%20the%20EP%20%E2%80%98My%20dear%20Melancholy%E2%80%99%2C%20A%24AP%20Rocky%20for%20the%20soundtrack%20of%20Divergent%2C%20Kanye%20West%20on%20Yeezus%20and%20Donda%20or%20most%20recently%2C%20on%20KayCyy%E2%80%99s%20debut%20EP%20and%20Lil%20Nas%20X%E2%80%99s%20%E2%80%9CJ%20CHRIST%E2%80%9D.%20On%20March%2029th%2C%20Gesaffelstein%20releases%20his%20new%20LP%2C%20GAMMA.%3C%2Fp%3E%3C%2Fp%3E"
+    }
+  ]
+}
