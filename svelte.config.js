@@ -1,9 +1,13 @@
 import adapter from '@sveltejs/adapter-cloudflare';
 
-const config = {
+export default {
 	kit: {
-		adapter: adapter()
+		// https://svelte.dev/docs/kit/adapter-cloudflare
+		adapter: adapter({
+			routes: {
+				include: ['/*'],
+				exclude: ['<all>']
+			},
+		})
 	}
 };
-
-export default config;
