@@ -32,7 +32,6 @@ const artists = artistNames.map((artistName) => {
 
   return {
     name: bio.name,
-    bio: genres.cleanBio,
     genres: genres.genres,
     urls,
   };
