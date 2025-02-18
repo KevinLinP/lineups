@@ -1,5 +1,5 @@
 <script>
-  import ArtistLinks from './ArtistLinks.svelte';
+  import Genre from './Genre.svelte';
 
   let title = $state('');
   let artists = $state([]);
@@ -48,6 +48,14 @@
       </div>
     </div>
 
-    <p class="text-gray-400 text-lg">{artist.genres.join(', ')}</p>
+    <div>
+      {#each artist.genres as genre}
+        {#if artist.genres.indexOf(genre) === artist.genres.length - 1}
+          <Genre genre={genre} genreSearch={genreSearch} />
+        {:else}
+          <Genre genre={genre} genreSearch={genreSearch} />{', '}
+        {/if}
+      {/each}
+    </div>
   </div>
 {/each}
