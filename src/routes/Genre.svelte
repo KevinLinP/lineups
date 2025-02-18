@@ -1,6 +1,7 @@
 <script>
   let { genre, genreSearch } = $props();
   const isSearching = $derived(genreSearch.length > 0);
+  const isMatch = $derived(isSearching && genre.toLowerCase().includes(genreSearch));
   
   // Split genre into parts: before match, match, and after match
   const matchIndex = $derived(genre.toLowerCase().indexOf(genreSearch));
@@ -11,7 +12,11 @@
   ] : [genre]);
 </script>
 
-<span class="text-lg" class:text-gray-400={!isSearching} class:text-gray-500={isSearching}>
+<span 
+  class="text-lg" 
+  class:text-gray-400={!isSearching || isMatch} 
+  class:text-gray-500={isSearching && !isMatch}
+>
   {#each parts as part, i}
     {#if i === 1}
       <span class="text-gray-300">{part}</span>

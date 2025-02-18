@@ -31,8 +31,9 @@
 
 <div class="flex">
   <h1 class="text-4xl font-light mb-4 grow">{title}</h1>
-  <div>
+  <div class="relative">
     <input type="text" class="mt-0 dark:bg-black dark:border-gray-700 dark:focus:border-gray-500 block w-full border-0 border-b-2 focus:ring-0 focus:border-black" bind:value={genreSearchInput} placeholder="search by genre" />
+    <button class="text-gray-500 invisible absolute right-0 px-2 py-3" style="bottom: 13px;" class:invisible={!genreSearchInput} onclick={() => genreSearchInput = ''}>clear</button>
   </div>
 </div>
 
@@ -48,7 +49,7 @@
       </div>
     </div>
 
-    <div>
+    <div class="text-gray-400">
       {#each artist.genres as genre}
         {#if artist.genres.indexOf(genre) === artist.genres.length - 1}
           <Genre genre={genre} genreSearch={genreSearch} />
@@ -59,3 +60,7 @@
     </div>
   </div>
 {/each}
+
+<button class="fixed bottom-4 right-4 bg-gray-200 dark:bg-gray-800 py-1 px-3 rounded-full" onclick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
+  scroll to top
+</button>
