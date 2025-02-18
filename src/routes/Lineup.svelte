@@ -12,15 +12,31 @@
         artists = data.artists;
       });
   });
+
+  let genreSearchInput = $state('');
+  $effect(() => {
+    genreSearchInput = localStorage.getItem('genreSearchInput') || '';
+  });
+  $effect(() => {
+    localStorage.setItem('genreSearchInput', genreSearchInput);
+  });
+
+  const genreSearch = $derived(genreSearchInput.trim().toLowerCase());
+  const filteredArtists = $derived(artists.filter(artist => artist.genres.some(genre => genre.toLowerCase().includes(genreSearch))));
 </script>
 
 <svelte:head>
   <title>{title} Lineup</title>
 </svelte:head>
 
-<h1 class="text-4xl font-light mb-4">{title}</h1>
+<div class="flex">
+  <h1 class="text-4xl font-light mb-4 grow">{title}</h1>
+  <div>
+    <input type="text" class="mt-0 dark:bg-black dark:border-gray-700 dark:focus:border-gray-500 block w-full border-0 border-b-2 focus:ring-0 focus:border-black" bind:value={genreSearchInput} placeholder="search by genre" />
+  </div>
+</div>
 
-{#each artists as artist}
+{#each filteredArtists as artist}
   <div class="mb-4">
     <div class="flex gap-2 items-baseline">
       <p class="text-2xl font-light grow">{artist.name}</p>
