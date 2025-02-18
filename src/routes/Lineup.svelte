@@ -33,7 +33,7 @@
   <h1 class="text-4xl font-light mb-4 grow">{title}</h1>
   <div class="relative">
     <input type="text" class="mt-0 dark:bg-black dark:border-gray-700 dark:focus:border-gray-500 block w-full border-0 border-b-2 focus:ring-0 focus:border-black" bind:value={genreSearchInput} placeholder="search by genre" />
-    <button class="text-gray-500 invisible absolute right-0 px-2 py-3" style="bottom: 13px;" class:invisible={!genreSearchInput} onclick={() => genreSearchInput = ''}>clear</button>
+    <button class="text-gray-500 invisible absolute right-0 px-2 py-1" style="top: 4px;" class:invisible={!genreSearchInput} onclick={() => genreSearchInput = ''}>clear</button>
   </div>
 </div>
 
