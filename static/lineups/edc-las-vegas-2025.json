@@ -54,226 +54,6 @@
       ]
     },
     {
-      "name": "AHEE",
-      "genres": [
-        "Bass Music",
-        "New Bounce",
-        "Breaks",
-        "Festival Music",
-        "Electronic Dance Music (EDM)",
-        "Dubstep",
-        "Trap",
-        "Future Bass",
-        "Glitch Hop",
-        "Drum and Bass"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/AHEE"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/iamahee/"
-        },
-        {
-          "type": "website",
-          "url": "https://www.aheebass.com/"
-        }
-      ]
-    },
-    {
-      "name": "ALLEYCVT",
-      "genres": [
-        "Bass Music",
-        "Dubstep",
-        "Future Bass",
-        "Trap",
-        "Electronic Pop",
-        "Drum and Bass",
-        "Hybrid Trap",
-        "Melodic Bass",
-        "Midtempo"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/alleycvt"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/alleycvt/"
-        },
-        {
-          "type": "website",
-          "url": "https://alleycvt.com/"
-        }
-      ]
-    },
-    {
-      "name": "AMÉMÉ",
-      "genres": [
-        "Afro House",
-        "Deep House",
-        "Afro Tech",
-        "World Music",
-        "Tribal House",
-        "Ethnic Electronica",
-        "Progressive House"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/amemedj"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/amemedj/"
-        }
-      ]
-    },
-    {
-      "name": "ANGEL CANNON",
-      "genres": [
-        "Hard Dance",
-        "Hard Techno",
-        "Industrial Techno",
-        "Techno",
-        "Electronicore"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/angelcannonmusic"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/angelcannonwave/"
-        },
-        {
-          "type": "website",
-          "url": "https://linktr.ee/Angelcannon"
-        }
-      ]
-    },
-    {
-      "name": "ARMNHMR",
-      "genres": [
-        "Melodic Bass",
-        "Future Bass",
-        "Progressive House",
-        "Trap",
-        "Dubstep",
-        "Electro House"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/armnhmr"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/ARMNHMR/"
-        },
-        {
-          "type": "website",
-          "url": "http://armnhmr.com/"
-        }
-      ]
-    },
-    {
-      "name": "ARODES",
-      "genres": [
-        "Melodic House",
-        "Progressive House",
-        "Deep House",
-        "Tech House",
-        "Electronica",
-        "Techno"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/arodes10"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/arodes_ofc/"
-        }
-      ]
-    },
-    {
-      "name": "ARTBAT",
-      "genres": [
-        "Melodic House",
-        "Techno",
-        "Progressive House",
-        "Deep House",
-        "Tech House"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/artbatmusic"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/artbatmusic/"
-        }
-      ]
-    },
-    {
-      "name": "ATLiens",
-      "genres": [
-        "Trap",
-        "Bass Music",
-        "Dubstep",
-        "Hybrid Trap",
-        "Future Bass",
-        "Experimental Bass",
-        "Midtempo Bass",
-        "EDM"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/atliens"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/atliensofficial/"
-        },
-        {
-          "type": "website",
-          "url": "http://www.atliensofficial.com/"
-        }
-      ]
-    },
-    {
       "name": "Adam Ten",
       "genres": [
         "Deep House",
@@ -355,6 +135,35 @@
         {
           "type": "website",
           "url": "https://afrojack.com/"
+        }
+      ]
+    },
+    {
+      "name": "AHEE",
+      "genres": [
+        "Bass Music",
+        "New Bounce",
+        "Breaks",
+        "Festival Music",
+        "Electronic Dance Music (EDM)",
+        "Dubstep",
+        "Trap",
+        "Future Bass",
+        "Glitch Hop",
+        "Drum and Bass"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/AHEE"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/iamahee/"
+        },
+        {
+          "type": "website",
+          "url": "https://www.aheebass.com/"
         }
       ]
     },
@@ -518,6 +327,38 @@
       ]
     },
     {
+      "name": "ALLEYCVT",
+      "genres": [
+        "Bass Music",
+        "Dubstep",
+        "Future Bass",
+        "Trap",
+        "Electronic Pop",
+        "Drum and Bass",
+        "Hybrid Trap",
+        "Melodic Bass",
+        "Midtempo"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/alleycvt"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/alleycvt/"
+        },
+        {
+          "type": "website",
+          "url": "https://alleycvt.com/"
+        }
+      ]
+    },
+    {
       "name": "Alok",
       "genres": [
         "Brazilian Bass",
@@ -591,6 +432,28 @@
       ]
     },
     {
+      "name": "AMÉMÉ",
+      "genres": [
+        "Afro House",
+        "Deep House",
+        "Afro Tech",
+        "World Music",
+        "Tribal House",
+        "Ethnic Electronica",
+        "Progressive House"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/amemedj"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/amemedj/"
+        }
+      ]
+    },
+    {
       "name": "Andromedik",
       "genres": [
         "Liquid Drum & Bass",
@@ -638,6 +501,34 @@
         {
           "type": "website",
           "url": "http://www.andyc.cc/"
+        }
+      ]
+    },
+    {
+      "name": "ANGEL CANNON",
+      "genres": [
+        "Hard Dance",
+        "Hard Techno",
+        "Industrial Techno",
+        "Techno",
+        "Electronicore"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/angelcannonmusic"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/angelcannonwave/"
+        },
+        {
+          "type": "website",
+          "url": "https://linktr.ee/Angelcannon"
         }
       ]
     },
@@ -798,6 +689,115 @@
       ]
     },
     {
+      "name": "ARMNHMR",
+      "genres": [
+        "Melodic Bass",
+        "Future Bass",
+        "Progressive House",
+        "Trap",
+        "Dubstep",
+        "Electro House"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/armnhmr"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/ARMNHMR/"
+        },
+        {
+          "type": "website",
+          "url": "http://armnhmr.com/"
+        }
+      ]
+    },
+    {
+      "name": "ARODES",
+      "genres": [
+        "Melodic House",
+        "Progressive House",
+        "Deep House",
+        "Tech House",
+        "Electronica",
+        "Techno"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/arodes10"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/arodes_ofc/"
+        }
+      ]
+    },
+    {
+      "name": "ARTBAT",
+      "genres": [
+        "Melodic House",
+        "Techno",
+        "Progressive House",
+        "Deep House",
+        "Tech House"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/artbatmusic"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/artbatmusic/"
+        }
+      ]
+    },
+    {
+      "name": "ATLiens",
+      "genres": [
+        "Trap",
+        "Bass Music",
+        "Dubstep",
+        "Hybrid Trap",
+        "Future Bass",
+        "Experimental Bass",
+        "Midtempo Bass",
+        "EDM"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/atliens"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/atliensofficial/"
+        },
+        {
+          "type": "website",
+          "url": "http://www.atliensofficial.com/"
+        }
+      ]
+    },
+    {
       "name": "Avalon",
       "genres": [
         "Psychedelic Trance (Psy-Trance)",
@@ -809,62 +809,6 @@
         {
           "type": "soundcloud",
           "url": "https://soundcloud.com/avalon"
-        }
-      ]
-    },
-    {
-      "name": "BIIA",
-      "genres": [
-        "Techno",
-        "Minimal Techno",
-        "Industrial Techno",
-        "Acid Techno",
-        "Tech House",
-        "Deep Techno",
-        "Experimental Electronic",
-        "Abstract Electronic",
-        "Detroit Techno",
-        "Berlin Techno",
-        "Progressive Techno",
-        "Ambient Techno"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/biiamusic"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/biiamusic/"
-        }
-      ]
-    },
-    {
-      "name": "BLOND:ISH",
-      "genres": [
-        "Afro House",
-        "Deep House",
-        "Techno",
-        "House",
-        "Psychedelic",
-        "80s Disco"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/blondish"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/blondish/"
-        },
-        {
-          "type": "website",
-          "url": "http://www.blond-ish.com/"
         }
       ]
     },
@@ -1042,6 +986,33 @@
       ]
     },
     {
+      "name": "BIIA",
+      "genres": [
+        "Techno",
+        "Minimal Techno",
+        "Industrial Techno",
+        "Acid Techno",
+        "Tech House",
+        "Deep Techno",
+        "Experimental Electronic",
+        "Abstract Electronic",
+        "Detroit Techno",
+        "Berlin Techno",
+        "Progressive Techno",
+        "Ambient Techno"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/biiamusic"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/biiamusic/"
+        }
+      ]
+    },
+    {
       "name": "Billy Gillies",
       "genres": [
         "Uplifting Trance",
@@ -1112,6 +1083,35 @@
         {
           "type": "website",
           "url": "http://www.blacktigersexmachine.com/"
+        }
+      ]
+    },
+    {
+      "name": "BLOND:ISH",
+      "genres": [
+        "Afro House",
+        "Deep House",
+        "Techno",
+        "House",
+        "Psychedelic",
+        "80s Disco"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/blondish"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/blondish/"
+        },
+        {
+          "type": "website",
+          "url": "http://www.blond-ish.com/"
         }
       ]
     },
@@ -1194,30 +1194,6 @@
         {
           "type": "instagram",
           "url": "https://www.instagram.com/brutalismus3000/"
-        }
-      ]
-    },
-    {
-      "name": "CHYL",
-      "genres": [
-        "Speed House",
-        "Bass House",
-        "Electro House",
-        "Future House",
-        "Trap"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/chylofficial"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/itschyl/"
         }
       ]
     },
@@ -1470,6 +1446,30 @@
       ]
     },
     {
+      "name": "CHYL",
+      "genres": [
+        "Speed House",
+        "Bass House",
+        "Electro House",
+        "Future House",
+        "Trap"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/chylofficial"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/itschyl/"
+        }
+      ]
+    },
+    {
       "name": "Clara Cuvé",
       "genres": [
         "Techno",
@@ -1697,174 +1697,6 @@
       ]
     },
     {
-      "name": "DEATH CODE",
-      "genres": [
-        "Hardstyle",
-        "Hard Dance",
-        "Hardcore Techno",
-        "Rawstyle",
-        "Hard Trance",
-        "Industrial Hardcore",
-        "Psytrance",
-        "Dubstep",
-        "Trap"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/djdeathcode"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/4TxNiQlZXcBj79ySTx9f2o"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/djdeathcode/"
-        }
-      ]
-    },
-    {
-      "name": "DJ AniMe",
-      "genres": [
-        "Hardcore",
-        "Gabber",
-        "Industrial Hardcore",
-        "Hardstyle",
-        "Mainstream Hardcore"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/djanimeofficial"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/djanimeofficial/"
-        },
-        {
-          "type": "website",
-          "url": "https://www.djanime.com/"
-        }
-      ]
-    },
-    {
-      "name": "DJ Fuckoff",
-      "genres": [
-        "Techno",
-        "House",
-        "Breakbeat",
-        "Acid",
-        "Electro",
-        "Hardcore",
-        "Rave"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/djfuckoff"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/dj.fuckoff/"
-        }
-      ]
-    },
-    {
-      "name": "DJ Gigola",
-      "genres": [
-        "Genre-fluid electronic",
-        "Dance music",
-        "Pop-infused electronic",
-        "Techno",
-        "House",
-        "Breakbeat",
-        "Trance",
-        "Experimental electronic",
-        "Acid house",
-        "Minimal techno"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/djgigola"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/dj_gigola"
-        }
-      ]
-    },
-    {
-      "name": "DJ Snake",
-      "genres": [
-        "Trap",
-        "Moombahton",
-        "Bass House",
-        "Pop",
-        "Reggaeton",
-        "Future Bass",
-        "Dancehall",
-        "Hip Hop",
-        "EDM",
-        "Dubstep"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/djsnake"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/djsnake/"
-        },
-        {
-          "type": "website",
-          "url": "http://www.djsnake.fr"
-        }
-      ]
-    },
-    {
-      "name": "DRINKURWATER",
-      "genres": [
-        "Dubstep",
-        "Bass Music",
-        "Riddim",
-        "Trap",
-        "Hybrid Trap",
-        "Future Bass",
-        "House",
-        "Drum and Bass",
-        "Experimental Bass"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/itsdrinkurwater"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/itsdrinkurwater/"
-        }
-      ]
-    },
-    {
       "name": "Da Tweekaz",
       "genres": [
         "Hardstyle",
@@ -2015,6 +1847,34 @@
         {
           "type": "spotify",
           "url": "https://open.spotify.com/artist/31PQANabd071TUYth7bG5n"
+        }
+      ]
+    },
+    {
+      "name": "DEATH CODE",
+      "genres": [
+        "Hardstyle",
+        "Hard Dance",
+        "Hardcore Techno",
+        "Rawstyle",
+        "Hard Trance",
+        "Industrial Hardcore",
+        "Psytrance",
+        "Dubstep",
+        "Trap"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/djdeathcode"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/4TxNiQlZXcBj79ySTx9f2o"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/djdeathcode/"
         }
       ]
     },
@@ -2180,6 +2040,118 @@
       ]
     },
     {
+      "name": "DJ AniMe",
+      "genres": [
+        "Hardcore",
+        "Gabber",
+        "Industrial Hardcore",
+        "Hardstyle",
+        "Mainstream Hardcore"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/djanimeofficial"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/djanimeofficial/"
+        },
+        {
+          "type": "website",
+          "url": "https://www.djanime.com/"
+        }
+      ]
+    },
+    {
+      "name": "DJ Fuckoff",
+      "genres": [
+        "Techno",
+        "House",
+        "Breakbeat",
+        "Acid",
+        "Electro",
+        "Hardcore",
+        "Rave"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/djfuckoff"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/dj.fuckoff/"
+        }
+      ]
+    },
+    {
+      "name": "DJ Gigola",
+      "genres": [
+        "Genre-fluid electronic",
+        "Dance music",
+        "Pop-infused electronic",
+        "Techno",
+        "House",
+        "Breakbeat",
+        "Trance",
+        "Experimental electronic",
+        "Acid house",
+        "Minimal techno"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/djgigola"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/dj_gigola"
+        }
+      ]
+    },
+    {
+      "name": "DJ Snake",
+      "genres": [
+        "Trap",
+        "Moombahton",
+        "Bass House",
+        "Pop",
+        "Reggaeton",
+        "Future Bass",
+        "Dancehall",
+        "Hip Hop",
+        "EDM",
+        "Dubstep"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/djsnake"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/djsnake/"
+        },
+        {
+          "type": "website",
+          "url": "http://www.djsnake.fr"
+        }
+      ]
+    },
+    {
       "name": "Dknow (MC Dino)",
       "genres": [
         "Drum and Bass",
@@ -2249,6 +2221,34 @@
         {
           "type": "website",
           "url": "https://dombresky.com/"
+        }
+      ]
+    },
+    {
+      "name": "DRINKURWATER",
+      "genres": [
+        "Dubstep",
+        "Bass Music",
+        "Riddim",
+        "Trap",
+        "Hybrid Trap",
+        "Future Bass",
+        "House",
+        "Drum and Bass",
+        "Experimental Bass"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/itsdrinkurwater"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/itsdrinkurwater/"
         }
       ]
     },
@@ -2511,36 +2511,6 @@
       ]
     },
     {
-      "name": "GUDFELLA",
-      "genres": [
-        "Future Bass",
-        "Electropop",
-        "Trap",
-        "House",
-        "Chillwave",
-        "Lo-fi Beats",
-        "Experimental"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/gudfellaofficial"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/gudfella/"
-        },
-        {
-          "type": "website",
-          "url": "https://www.gudfella.com/"
-        }
-      ]
-    },
-    {
       "name": "Gesaffelstein",
       "genres": [
         "Techno",
@@ -2595,27 +2565,32 @@
       ]
     },
     {
-      "name": "HUGEL",
+      "name": "GUDFELLA",
       "genres": [
-        "Latin House",
+        "Future Bass",
+        "Electropop",
+        "Trap",
         "House",
-        "Funk",
-        "Disco",
-        "Soul",
-        "Electronic Dance Music (EDM)"
+        "Chillwave",
+        "Lo-fi Beats",
+        "Experimental"
       ],
       "urls": [
         {
           "type": "soundcloud",
-          "url": "https://soundcloud.com/hugelmusic"
+          "url": "https://soundcloud.com/gudfellaofficial"
         },
         {
           "type": "spotify",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
         },
         {
           "type": "instagram",
-          "url": "https://www.instagram.com/hugelthug/"
+          "url": "https://www.instagram.com/gudfella/"
+        },
+        {
+          "type": "website",
+          "url": "https://www.gudfella.com/"
         }
       ]
     },
@@ -2669,6 +2644,31 @@
       ]
     },
     {
+      "name": "horsegiirL",
+      "genres": [
+        "Hyperpop",
+        "Bubblegum Bass",
+        "Electronic Pop",
+        "Experimental Electronic",
+        "Synthpop",
+        "Dance-Pop"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/horsegiirl"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/horsegiirl420/"
+        }
+      ]
+    },
+    {
       "name": "Hot Since 82",
       "genres": [
         "Deep House",
@@ -2698,6 +2698,31 @@
       ]
     },
     {
+      "name": "HUGEL",
+      "genres": [
+        "Latin House",
+        "House",
+        "Funk",
+        "Disco",
+        "Soul",
+        "Electronic Dance Music (EDM)"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/hugelmusic"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/hugelthug/"
+        }
+      ]
+    },
+    {
       "name": "I Hate Models",
       "genres": [
         "Industrial Techno",
@@ -2716,6 +2741,36 @@
         {
           "type": "instagram",
           "url": "https://www.instagram.com/ihatemodels1/"
+        }
+      ]
+    },
+    {
+      "name": "Illenium",
+      "genres": [
+        "Melodic Bass",
+        "Future Bass",
+        "Dubstep",
+        "Trap",
+        "Progressive House",
+        "Chillstep",
+        "Dance-Pop"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/illeniumofficial"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/illenium/"
+        },
+        {
+          "type": "website",
+          "url": "http://illenium.com/"
         }
       ]
     },
@@ -2742,6 +2797,33 @@
         {
           "type": "instagram",
           "url": "https://www.instagram.com/infektdubstep/"
+        }
+      ]
+    },
+    {
+      "name": "Interplanetary Criminal",
+      "genres": [
+        "UK Garage",
+        "House",
+        "Breakbeat",
+        "Bassline",
+        "Rave",
+        "2-Step",
+        "Jungle",
+        "Drum and Bass"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/interplanetary-criminal"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/interplanetary_criminal93/"
         }
       ]
     },
@@ -2801,59 +2883,28 @@
       ]
     },
     {
-      "name": "Illenium",
+      "name": "it's murph",
       "genres": [
-        "Melodic Bass",
-        "Future Bass",
-        "Dubstep",
-        "Trap",
-        "Progressive House",
-        "Chillstep",
-        "Dance-Pop"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/illeniumofficial"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/illenium/"
-        },
-        {
-          "type": "website",
-          "url": "http://illenium.com/"
-        }
-      ]
-    },
-    {
-      "name": "Interplanetary Criminal",
-      "genres": [
-        "UK Garage",
         "House",
-        "Breakbeat",
-        "Bassline",
-        "Rave",
-        "2-Step",
-        "Jungle",
-        "Drum and Bass"
+        "Tech House",
+        "Bass House",
+        "Dance",
+        "Future Bass",
+        "Melodic House",
+        "Electronic"
       ],
       "urls": [
         {
           "type": "soundcloud",
-          "url": "https://soundcloud.com/interplanetary-criminal"
+          "url": "https://soundcloud.com/its-murph-987074444"
         },
         {
           "type": "spotify",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
         },
         {
           "type": "instagram",
-          "url": "https://www.instagram.com/interplanetary_criminal93/"
+          "url": "https://www.instagram.com/itsmurphmusic/"
         }
       ]
     },
@@ -3109,56 +3160,6 @@
       ]
     },
     {
-      "name": "LAYZ",
-      "genres": [
-        "Dubstep",
-        "Bass Music",
-        "Trap",
-        "Drum and Bass",
-        "Riddim",
-        "Future Bass"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/layzdubz"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/layzdubz/"
-        }
-      ]
-    },
-    {
-      "name": "LF SYSTEM",
-      "genres": [
-        "Disco House",
-        "Soulful House",
-        "Piano House",
-        "Funky House",
-        "Nu-Disco",
-        "Dance Music"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/lfsystem"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/lfsystemmusic/"
-        }
-      ]
-    },
-    {
       "name": "Lady Faith",
       "genres": [
         "Hardstyle",
@@ -3313,6 +3314,31 @@
       ]
     },
     {
+      "name": "LAYZ",
+      "genres": [
+        "Dubstep",
+        "Bass Music",
+        "Trap",
+        "Drum and Bass",
+        "Riddim",
+        "Future Bass"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/layzdubz"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/layzdubz/"
+        }
+      ]
+    },
+    {
       "name": "Le Youth",
       "genres": [
         "Melodic House",
@@ -3413,6 +3439,31 @@
         {
           "type": "instagram",
           "url": "https://www.instagram.com/levity.music/"
+        }
+      ]
+    },
+    {
+      "name": "LF SYSTEM",
+      "genres": [
+        "Disco House",
+        "Soulful House",
+        "Piano House",
+        "Funky House",
+        "Nu-Disco",
+        "Dance Music"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/lfsystem"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/lfsystemmusic/"
         }
       ]
     },
@@ -3581,129 +3632,6 @@
       ]
     },
     {
-      "name": "MALUGI",
-      "genres": [
-        "Rave",
-        "Techno",
-        "House",
-        "Acid",
-        "Breakbeat",
-        "Electro",
-        "Hardcore",
-        "Minimal",
-        "Trance"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/malugienergy"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/malugienergy/"
-        }
-      ]
-    },
-    {
-      "name": "MCR-T",
-      "genres": [
-        "Techno",
-        "House",
-        "Electro",
-        "Bass Music",
-        "Experimental Electronic"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/mcr-t"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/kolegajj/"
-        }
-      ]
-    },
-    {
-      "name": "MORTEN",
-      "genres": [
-        "Future Rave",
-        "Progressive House",
-        "Big Room House",
-        "Electro House",
-        "Melodic House",
-        "Bass House",
-        "EDM"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/mortenofficial"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/mortenofficial/"
-        },
-        {
-          "type": "website",
-          "url": "https://www.mortenofficial.com/"
-        }
-      ]
-    },
-    {
-      "name": "MPH",
-      "genres": [
-        "UK Garage",
-        "Bassline",
-        "House",
-        "Drum and Bass",
-        "Future Bass",
-        "Breakbeat"
-      ],
-      "urls": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/mph_uk"
-        }
-      ]
-    },
-    {
-      "name": "MRD",
-      "genres": [
-        "Dark Techno",
-        "Hardcore Techno",
-        "New Wave",
-        "Melodic Techno",
-        "Ambient Techno"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/mrdmrdmrd"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR"
-        }
-      ]
-    },
-    {
       "name": "Maddix",
       "genres": [
         "Big Room House",
@@ -3749,6 +3677,34 @@
         {
           "type": "spotify",
           "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ]
+    },
+    {
+      "name": "MALUGI",
+      "genres": [
+        "Rave",
+        "Techno",
+        "House",
+        "Acid",
+        "Breakbeat",
+        "Electro",
+        "Hardcore",
+        "Minimal",
+        "Trance"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/malugienergy"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/malugienergy/"
         }
       ]
     },
@@ -3996,6 +3952,30 @@
       ]
     },
     {
+      "name": "MCR-T",
+      "genres": [
+        "Techno",
+        "House",
+        "Electro",
+        "Bass Music",
+        "Experimental Electronic"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/mcr-t"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/kolegajj/"
+        }
+      ]
+    },
+    {
       "name": "Meduza",
       "genres": [
         "House",
@@ -4171,6 +4151,57 @@
       ]
     },
     {
+      "name": "MORTEN",
+      "genres": [
+        "Future Rave",
+        "Progressive House",
+        "Big Room House",
+        "Electro House",
+        "Melodic House",
+        "Bass House",
+        "EDM"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/mortenofficial"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/mortenofficial/"
+        },
+        {
+          "type": "website",
+          "url": "https://www.mortenofficial.com/"
+        }
+      ]
+    },
+    {
+      "name": "MPH",
+      "genres": [
+        "UK Garage",
+        "Bassline",
+        "House",
+        "Drum and Bass",
+        "Future Bass",
+        "Breakbeat"
+      ],
+      "urls": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/mph_uk"
+        }
+      ]
+    },
+    {
       "name": "Mr. Brooks",
       "genres": [
         "Trance",
@@ -4188,33 +4219,22 @@
       ]
     },
     {
-      "name": "NGHTMRE",
+      "name": "MRD",
       "genres": [
-        "Trap",
-        "Dubstep",
-        "Future Bass",
-        "Bass Music",
-        "EDM",
-        "Hip-Hop Influenced Electronic",
-        "House",
-        "Drum and Bass"
+        "Dark Techno",
+        "Hardcore Techno",
+        "New Wave",
+        "Melodic Techno",
+        "Ambient Techno"
       ],
       "urls": [
         {
           "type": "soundcloud",
-          "url": "https://soundcloud.com/nghtmre"
+          "url": "https://soundcloud.com/mrdmrdmrd"
         },
         {
           "type": "spotify",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "type": "instagram",
-          "url": "https://instagram.com/nghtmre"
-        },
-        {
-          "type": "website",
-          "url": "https://nghtmre.com/"
+          "url": "https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR"
         }
       ]
     },
@@ -4301,6 +4321,37 @@
         {
           "type": "website",
           "url": "https://www.netskymusic.com/"
+        }
+      ]
+    },
+    {
+      "name": "NGHTMRE",
+      "genres": [
+        "Trap",
+        "Dubstep",
+        "Future Bass",
+        "Bass Music",
+        "EDM",
+        "Hip-Hop Influenced Electronic",
+        "House",
+        "Drum and Bass"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/nghtmre"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/nghtmre"
+        },
+        {
+          "type": "website",
+          "url": "https://nghtmre.com/"
         }
       ]
     },
@@ -4414,49 +4465,6 @@
       ]
     },
     {
-      "name": "OGUZ",
-      "genres": [
-        "Techno",
-        "Melodic Techno",
-        "Hard Techno",
-        "Progressive Techno",
-        "Deep House",
-        "Minimal Techno",
-        "Acid Techno",
-        "Industrial Techno",
-        "Tech House",
-        "Experimental Electronic"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/oguz808"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/oguz.808/"
-        }
-      ]
-    },
-    {
-      "name": "OMRI.",
-      "genres": [
-        "Deep House",
-        "Tech House",
-        "Minimal Techno",
-        "Progressive House",
-        "Melodic House",
-        "Electronica",
-        "Ambient",
-        "Psychedelic Trance"
-      ],
-      "urls": []
-    },
-    {
       "name": "Odd Mob",
       "genres": [
         "House",
@@ -4511,6 +4519,35 @@
       ]
     },
     {
+      "name": "OGUZ",
+      "genres": [
+        "Techno",
+        "Melodic Techno",
+        "Hard Techno",
+        "Progressive Techno",
+        "Deep House",
+        "Minimal Techno",
+        "Acid Techno",
+        "Industrial Techno",
+        "Tech House",
+        "Experimental Electronic"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/oguz808"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/oguz.808/"
+        }
+      ]
+    },
+    {
       "name": "Omiki",
       "genres": [
         "Progressive Trance",
@@ -4556,6 +4593,20 @@
       ]
     },
     {
+      "name": "OMRI.",
+      "genres": [
+        "Deep House",
+        "Tech House",
+        "Minimal Techno",
+        "Progressive House",
+        "Melodic House",
+        "Electronica",
+        "Ambient",
+        "Psychedelic Trance"
+      ],
+      "urls": []
+    },
+    {
       "name": "Onlynumbers",
       "genres": [
         "Techno",
@@ -4599,6 +4650,33 @@
         {
           "type": "instagram",
           "url": "https://www.instagram.com/djoppidan/"
+        }
+      ]
+    },
+    {
+      "name": "ØTTA",
+      "genres": [
+        "Psytrance",
+        "Trance",
+        "Progressive Trance",
+        "UK Garage",
+        "Groove",
+        "Brazilian Drum-influenced Electronic",
+        "House",
+        "Techno"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/carlota-correia-neves"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/otta.ottie/"
         }
       ]
     },
@@ -4780,55 +4858,6 @@
         {
           "type": "website",
           "url": "http://www.ericprydz.tv"
-        }
-      ]
-    },
-    {
-      "name": "RL Grime",
-      "genres": [
-        "Trap",
-        "Future Bass",
-        "Bass Music",
-        "Dubstep",
-        "Electronic",
-        "Hip Hop",
-        "Wave"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/rlgrime"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/rlgrime/"
-        },
-        {
-          "type": "website",
-          "url": "http://rlgri.me/"
-        }
-      ]
-    },
-    {
-      "name": "RZRKT",
-      "genres": [
-        "Dubstep",
-        "Future Bass",
-        "Trap",
-        "Psytrance"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/rzrktmusic"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/rzrktmusic/"
         }
       ]
     },
@@ -5015,6 +5044,32 @@
       ]
     },
     {
+      "name": "RL Grime",
+      "genres": [
+        "Trap",
+        "Future Bass",
+        "Bass Music",
+        "Dubstep",
+        "Electronic",
+        "Hip Hop",
+        "Wave"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/rlgrime"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/rlgrime/"
+        },
+        {
+          "type": "website",
+          "url": "http://rlgri.me/"
+        }
+      ]
+    },
+    {
       "name": "Rooler",
       "genres": [
         "Hardstyle",
@@ -5125,55 +5180,25 @@
       ]
     },
     {
-      "name": "SIDEPIECE",
+      "name": "RZRKT",
       "genres": [
-        "House",
-        "Tech House",
-        "Bass House",
-        "Deep House",
-        "Trap",
-        "Bass Music"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/youasidepiece"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/youasidepiece/"
-        }
-      ]
-    },
-    {
-      "name": "SLANDER",
-      "genres": [
-        "Melodic Bass",
+        "Dubstep",
         "Future Bass",
         "Trap",
-        "Dubstep",
-        "Bass Music",
-        "Progressive House",
-        "Future House",
-        "Hybrid Trap",
-        "Electronic Dance Music (EDM)"
+        "Psytrance"
       ],
       "urls": [
         {
           "type": "soundcloud",
-          "url": "http://soundcloud.com/slanderofficial"
+          "url": "https://soundcloud.com/rzrktmusic"
         },
         {
           "type": "spotify",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+          "url": "https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC"
         },
         {
           "type": "instagram",
-          "url": "https://instagram.com/slanderofficial/"
+          "url": "https://www.instagram.com/rzrktmusic/"
         }
       ]
     },
@@ -5355,6 +5380,31 @@
       ]
     },
     {
+      "name": "SIDEPIECE",
+      "genres": [
+        "House",
+        "Tech House",
+        "Bass House",
+        "Deep House",
+        "Trap",
+        "Bass Music"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/youasidepiece"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/youasidepiece/"
+        }
+      ]
+    },
+    {
       "name": "Simula",
       "genres": [
         "Drum & Bass",
@@ -5422,6 +5472,34 @@
         {
           "type": "instagram",
           "url": "https://www.instagram.com/skreamizm/"
+        }
+      ]
+    },
+    {
+      "name": "SLANDER",
+      "genres": [
+        "Melodic Bass",
+        "Future Bass",
+        "Trap",
+        "Dubstep",
+        "Bass Music",
+        "Progressive House",
+        "Future House",
+        "Hybrid Trap",
+        "Electronic Dance Music (EDM)"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "http://soundcloud.com/slanderofficial"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/slanderofficial/"
         }
       ]
     },
@@ -5643,82 +5721,6 @@
       ]
     },
     {
-      "name": "TDJ",
-      "genres": [
-        "Trance",
-        "Eurodance",
-        "Gabber",
-        "Emo-infused Electronic",
-        "Experimental Electronic",
-        "Dance Music"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/teedeejayyy"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/teedeejayyy/"
-        }
-      ]
-    },
-    {
-      "name": "TOKiMONSTA",
-      "genres": [
-        "L.A. Beat Scene",
-        "Electronic",
-        "Experimental",
-        "Hip-Hop",
-        "House",
-        "Trip-Hop",
-        "Future Beats",
-        "Downtempo",
-        "Indie Electronic",
-        "Soul",
-        "Ambient"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/tokimonsta"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "type": "instagram",
-          "url": "https://instagram.com/tokimonsta/"
-        },
-        {
-          "type": "website",
-          "url": "http://www.tokimonsta.com/"
-        }
-      ]
-    },
-    {
-      "name": "TWENTY SIX",
-      "genres": [
-        "Ambient",
-        "Downtempo",
-        "Chillwave",
-        "Experimental",
-        "IDM (Intelligent Dance Music)",
-        "Electroacoustic"
-      ],
-      "urls": [
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/twentysixofficialmusic/?hl=en"
-        }
-      ]
-    },
-    {
       "name": "Tape B",
       "genres": [
         "OG Dubstep",
@@ -5769,6 +5771,31 @@
         {
           "type": "website",
           "url": "http://tchami.fr/"
+        }
+      ]
+    },
+    {
+      "name": "TDJ",
+      "genres": [
+        "Trance",
+        "Eurodance",
+        "Gabber",
+        "Emo-infused Electronic",
+        "Experimental Electronic",
+        "Dance Music"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/teedeejayyy"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/teedeejayyy/"
         }
       ]
     },
@@ -5829,6 +5856,40 @@
         {
           "type": "website",
           "url": "http://www.tiesto.com/"
+        }
+      ]
+    },
+    {
+      "name": "TOKiMONSTA",
+      "genres": [
+        "L.A. Beat Scene",
+        "Electronic",
+        "Experimental",
+        "Hip-Hop",
+        "House",
+        "Trip-Hop",
+        "Future Beats",
+        "Downtempo",
+        "Indie Electronic",
+        "Soul",
+        "Ambient"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/tokimonsta"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/tokimonsta/"
+        },
+        {
+          "type": "website",
+          "url": "http://www.tokimonsta.com/"
         }
       ]
     },
@@ -5935,32 +5996,19 @@
       ]
     },
     {
-      "name": "VNSSA",
+      "name": "TWENTY SIX",
       "genres": [
-        "House",
-        "Techno",
-        "Disco",
-        "Tech House",
-        "Deep House",
-        "Acid House",
-        "Minimal Techno"
+        "Ambient",
+        "Downtempo",
+        "Chillwave",
+        "Experimental",
+        "IDM (Intelligent Dance Music)",
+        "Electroacoustic"
       ],
       "urls": [
         {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/v_nss_a"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        },
-        {
           "type": "instagram",
-          "url": "https://www.instagram.com/vnssa/"
-        },
-        {
-          "type": "website",
-          "url": "https://www.vnssa.com/"
+          "url": "https://www.instagram.com/twentysixofficialmusic/?hl=en"
         }
       ]
     },
@@ -6085,6 +6133,36 @@
         {
           "type": "instagram",
           "url": "https://www.instagram.com/vintageculture_lukasruiz/"
+        }
+      ]
+    },
+    {
+      "name": "VNSSA",
+      "genres": [
+        "House",
+        "Techno",
+        "Disco",
+        "Tech House",
+        "Deep House",
+        "Acid House",
+        "Minimal Techno"
+      ],
+      "urls": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/v_nss_a"
+        },
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/vnssa/"
+        },
+        {
+          "type": "website",
+          "url": "https://www.vnssa.com/"
         }
       ]
     },
@@ -6319,84 +6397,6 @@
         {
           "type": "instagram",
           "url": "https://www.instagram.com/zoegitter/"
-        }
-      ]
-    },
-    {
-      "name": "horsegiirL",
-      "genres": [
-        "Hyperpop",
-        "Bubblegum Bass",
-        "Electronic Pop",
-        "Experimental Electronic",
-        "Synthpop",
-        "Dance-Pop"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/horsegiirl"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/horsegiirl420/"
-        }
-      ]
-    },
-    {
-      "name": "it's murph",
-      "genres": [
-        "House",
-        "Tech House",
-        "Bass House",
-        "Dance",
-        "Future Bass",
-        "Melodic House",
-        "Electronic"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/its-murph-987074444"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/itsmurphmusic/"
-        }
-      ]
-    },
-    {
-      "name": "ØTTA",
-      "genres": [
-        "Psytrance",
-        "Trance",
-        "Progressive Trance",
-        "UK Garage",
-        "Groove",
-        "Brazilian Drum-influenced Electronic",
-        "House",
-        "Techno"
-      ],
-      "urls": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/carlota-correia-neves"
-        },
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/otta.ottie/"
         }
       ]
     }

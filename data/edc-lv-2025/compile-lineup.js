@@ -5,7 +5,7 @@ const artistsJson = JSON.parse(fs.readFileSync('./data/edc-lv-2025/artists.json'
 
 const artistNames = _.uniq(artistsJson.map((artist) => {
   return artist.name;
-})).sort();
+}));
 
 const DISALLOWED_URL_TYPES = ['twitter', 'facebook']
 const SORT_ORDER = ['soundcloud', 'spotify', 'instagram', 'website'];
@@ -40,7 +40,9 @@ const artists = artistNames.map((artistName) => {
 
 const lineup = {
   name: 'EDC Las Vegas 2025',
-  artists: _.sortBy(artists, 'name'),
+  artists: artists.sort((a, b) =>
+    a.name.localeCompare(b.name, 'en', {sensitivity: 'base'})
+  ),
   urlSlug: 'edc-las-vegas-2025'
 };
 
